@@ -1,5 +1,5 @@
 version: '0'
 services:
  directory_scan:
-   image: clairesu/python:3
+   image: clairesu/python:4
    
