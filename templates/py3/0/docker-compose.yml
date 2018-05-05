@@ -1,0 +1,5 @@
+version: '2'
+services:
+ directory_scan:
+   image: clairesu/python:2
+   

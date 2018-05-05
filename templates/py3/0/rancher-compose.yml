@@ -1,0 +1,5 @@
+.catalog:
+  name: "directory_scan"
+  version: "v1"
+  description: "目录后台扫描，python版"
+  
