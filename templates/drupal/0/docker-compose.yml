@@ -1,0 +1,9 @@
+version: '8.5.0'
+services:
+ web：
+   image: clairesu/drupal：8.5.0
+   ports：
+    - "8080:80"
+    
+
+   
