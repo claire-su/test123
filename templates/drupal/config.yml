@@ -1,6 +1,5 @@
-name:  struts
-description: |
-   drupal
+name: drupal 
+description: |  
 version:  8.5.0
 category:  WEB
 maintainer:  clairesu
